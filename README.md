@@ -1,5 +1,4 @@
-# LIVE : 
-https://adrsh.netlify.app
+# LIVE : https://adrsh.netlify.app
 
 # Personal Portfolio
 
